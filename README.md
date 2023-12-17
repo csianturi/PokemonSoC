@@ -6,4 +6,4 @@ The MMIO subsystem consists of a controller to select a specific slot and can ac
 The video subsystem establishes a framework to coordinate the operation of video cores. A video core generates or processes the video data stream. The cores are arranged as a cascading chain. The data stream is pipelined and “blended” through each stage and eventually displayed on a VGA monitor. The video subsystem demonstrates the principles of handling stream data, in which data are generated continuously and passed through a chain of components for processing.
 ## Final Result
 ![Title Screen Picture](https://github.com/csianturi/PokemonSoC/blob/main/PokemonSoC/Images/pokemongame.jpg?raw=true)
-![Game Screen Picture](PokemonSoC/Images/pokemongame.jpg)
+![Game Screen Picture](Images/pokemongame.jpg)
